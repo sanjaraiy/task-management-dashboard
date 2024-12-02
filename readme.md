@@ -18,7 +18,7 @@ npm install
 After installing the dependencies, you can run the app locally using the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
 - This will start the development server, and you can view the application in your browser at:
